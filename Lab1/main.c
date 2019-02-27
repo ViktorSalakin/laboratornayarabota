@@ -6,7 +6,7 @@ int main(void)
 	float r;
 	float a;
 	float S;
-	const int P = 3.14;
+	const float P = 3.14;
 
 	printf("r=");
 	scanf_s("%f=", &r);
